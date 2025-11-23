@@ -1,5 +1,7 @@
 # VL53L0X Distance Sensor with SSD1306 OLED Display
 
+<img src="https://raw.githubusercontent.com/easai/VL53L0X-esp32/main/IMG_2389.jpeg" alt="VL53L0X-esp32" width="300">
+
 This project demonstrates how to interface the **VL53L0X Time-of-Flight distance sensor** with an **SSD1306 OLED display** using an **ESP32-C3** microcontroller. It continuously measures distance and displays the result on the OLED screen.
 
 ## Hardware Requirements
